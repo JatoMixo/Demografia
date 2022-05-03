@@ -1,0 +1,15 @@
+D:\Miguel\Programas\Demografia\bin\Debug\net6.0\Demografia.exe
+D:\Miguel\Programas\Demografia\bin\Debug\net6.0\Demografia.deps.json
+D:\Miguel\Programas\Demografia\bin\Debug\net6.0\Demografia.runtimeconfig.json
+D:\Miguel\Programas\Demografia\bin\Debug\net6.0\Demografia.dll
+D:\Miguel\Programas\Demografia\bin\Debug\net6.0\ref\Demografia.dll
+D:\Miguel\Programas\Demografia\bin\Debug\net6.0\Demografia.pdb
+D:\Miguel\Programas\Demografia\obj\Debug\net6.0\Demografia.csproj.AssemblyReference.cache
+D:\Miguel\Programas\Demografia\obj\Debug\net6.0\Demografia.GeneratedMSBuildEditorConfig.editorconfig
+D:\Miguel\Programas\Demografia\obj\Debug\net6.0\Demografia.AssemblyInfoInputs.cache
+D:\Miguel\Programas\Demografia\obj\Debug\net6.0\Demografia.AssemblyInfo.cs
+D:\Miguel\Programas\Demografia\obj\Debug\net6.0\Demografia.csproj.CoreCompileInputs.cache
+D:\Miguel\Programas\Demografia\obj\Debug\net6.0\Demografia.dll
+D:\Miguel\Programas\Demografia\obj\Debug\net6.0\ref\Demografia.dll
+D:\Miguel\Programas\Demografia\obj\Debug\net6.0\Demografia.pdb
+D:\Miguel\Programas\Demografia\obj\Debug\net6.0\Demografia.genruntimeconfig.cache
